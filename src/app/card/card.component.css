@@ -1,0 +1,12 @@
+.card {
+    margin-top: 125px;
+    width: 500px;
+  }
+  img {
+    margin-top: -80px;
+  }
+  .card-text{
+      padding: 2px;
+      color: #554e4e;
+  }
+  
